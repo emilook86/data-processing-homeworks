@@ -13,7 +13,7 @@ The repository includes four homework assignments, each focusing on different as
 3. **Data Visualization in Python**
 4. **Word Clouds & Graph Visualization in Python** (using the `pandas` library)
 
-## 🛠 Technologies Used
+## 🛠 Programming Languages Used
 - **R** (for data filtering and SQL-related tasks)
 - **Python** (for statistics, aggregations, and visualizations)
   - `pandas`
